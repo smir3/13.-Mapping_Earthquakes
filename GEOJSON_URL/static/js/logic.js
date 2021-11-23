@@ -21,5 +21,6 @@ d3.json(airportData).then(function(data) {
     onEachFeature: function(feature, layer) {
         console.log(feature);
         layer.bindPopup("<h3> Airport Code:" + feature.properties.faa + "</h3> <hr><h3>Airport Name: " + feature.properties.name + "</h3>");
-    }.addTo(map)
+        }
+    }).addTo(map);
 });
