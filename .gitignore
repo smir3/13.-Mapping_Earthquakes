@@ -8,6 +8,7 @@ Mapping_GEOJSON_Points/static/js/config.js
 GEOJSON_URL/static/js/config.js
 Mapping_GeoJSON_Linestrings/static/js/config.js
 Polygons_GeoJSON/static/js/config.js
+Earthquakes_past7days/static/js/config.js
 
 __pycache__/
 *.py[cod]
