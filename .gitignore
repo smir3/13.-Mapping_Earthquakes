@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 Simple_Leaflet_Map
- Simple_Map/static/js/config.js
+Simple_Map/static/js/config.js
+Mapping_Single_Points/static/js/config.js
 __pycache__/
 *.py[cod]
 *$py.class
