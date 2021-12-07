@@ -20,3 +20,4 @@ This map visually differentiates between earthquakes of magnitude less than 5, g
           It contains all necessary information to format the index.html folder
       - js
         - challenge_logic.js
+          It contains JavaScript code that interacts with the final user and shows the data used in the index file
