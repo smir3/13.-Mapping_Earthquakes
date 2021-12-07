@@ -14,10 +14,10 @@ This map visually differentiates between earthquakes of magnitude less than 5, g
     - index.html
         - it contains the HTML code necessary to interact with the final user
         - references the .css, .js code contained in the static folder
-      - static
-      - css
-        - style.css
-          It contains all necessary information to format the index.html folder
-      - js
-        - challenge_logic.js
-          It contains JavaScript code that interacts with the final user and shows the data used in the index file
+    - static
+        - css
+            - style.css
+              It contains all necessary information to format the index.html folder
+        - js
+            - challenge_logic.js
+              It contains JavaScript code that interacts with the final user and shows the data used in the index file
